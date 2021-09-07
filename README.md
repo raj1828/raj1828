@@ -46,9 +46,7 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
             <p><br>
                 <img align="left" alt="raj | NetBeans" width="22px" src="https://github.com/raj1828/raj1828/blob/master/designs/ide_packages/netbeans.png" />
                 <img align="left" alt="raj | PyCharm" width="22px" src="https://github.com/raj1828/raj1828/blob/master/designs/ide_packages/pycharm.png" />
-                <img align="left" alt="raj | Visual Studio Code" width="22px" src="https://github.com/cmulay/cmulay/blob/master/designs/ide_packages/vsc.png" />
-                <img align="left" alt="raj | NPM" width="22px" src="https://github.com/raj1828/raj1828/blob/master/designs/ide_packages/npm.pngs/ide_packages/npm.png" />
-                <img align="left" alt="raj | Apple XCode" width="22px" src="https://github.com/raj1828/raj1828/blob/master/designs/ide_packages/vsc.png" />
+                <img align="left" alt="raj | Visual Studio Code" width="22px" src="https://github.com/raj1828/raj1828/blob/master/designs/ide_packages/vsc.png" />
             </p><br>
 </div>
 
