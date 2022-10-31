@@ -1,6 +1,6 @@
 ### Hey Raj here 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raj1828/My-Portfolio/master/assets/img/github-header-image%20(1).png?token=GHSAT0AAAAAABZWNXWUYLUUEIB4O2S3IYZYY3AENVQ" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/raj1828/raj1828/master/designs/banner/github-header-image%20(1).png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer, contributing to improve the world around me.
