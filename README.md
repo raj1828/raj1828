@@ -1,10 +1,15 @@
+### Hey Raj here 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raj1828/My-Portfolio/master/assets/img/github-header-image%20(1).png?token=GHSAT0AAAAAABZWNXWUYLUUEIB4O2S3IYZYY3AENVQ" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-
-I'm an aspiring computer engineer, contributing to improve the world around me.
+I am a Full-stack Web Developer, contributing to improve the world around me.
 
 -  👋 Hi, I’m @raj1828
 
 - 🌱 I’m passionate about helping those in need.
+
+- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
  
 - 👯 I’m looking to collaborate on any platform based projects or research.
 
@@ -12,11 +17,15 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 
 - 💞️ I’m looking to collaborate on ...
 
+- 💬 Ask me about Full Stack Development
+
 - 🤯 Feature: Visit my profile in both [light and dark mode](https://github.com/settings/appearance) ! 
 
 - 😄 If you want to create a similar profile readme [click here](https://github.com/cmulay/cmulay/generate). [Consider ⭐ing!]
 
 ![](https://komarev.com/ghpvc/?username=raj1828&style=for-the-badge&label=Stalker+Alert)
+
+![Profile views](https://gpvc.arturio.dev/raj1828)  <img src="https://img.shields.io/github/followers/raj1828?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
@@ -61,6 +70,12 @@ I'm an aspiring computer engineer, contributing to improve the world around me.
 </div>
     </details>
 </div>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj1828&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/raj1828)
 
 ---
 
